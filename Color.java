@@ -1,5 +1,7 @@
 /*
- *	Color class
+ *	name:Shengjun Niu
+ *	email:sniu28@wisc.edu
+ *	cs user name:Shengjun
  */
 public class Color{
 	private String color;
